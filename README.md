@@ -1,6 +1,7 @@
 # Does Oil Price Affect the Indian Rupee?
 
-A data science project that looks at real market data (2020-ongoing) to answer a simple question:
+
+A data science project that looks at real market data (2020–ongoing) to answer a simple question:
 
 **When crude oil prices go up or down, does the Indian Rupee (INR) move too?**
 
