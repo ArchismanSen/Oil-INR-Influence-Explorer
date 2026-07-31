@@ -79,7 +79,19 @@ A live dashboard was built to explore all of this without needing to read code o
 - 🌍 A section explaining how India's shift away from oil might change this relationship in the future
 - 📋 A plain-language summary of all findings
 
-*(Screenshot of the dashboard can go here)*
+## Dashboard Preview
+
+### Home
+![Dashboard Home](images/dashboard-home.png)
+
+### Date Lookup
+![Date Lookup](images/dashboard-date-lookup.png)
+
+### Volatility Analysis
+![Volatility](images/dashboard-volatility.png)
+
+### Energy Transition
+![Energy Transition](images/dashboard-energy-transition.png)
 
 ---
 
